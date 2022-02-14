@@ -28,7 +28,7 @@
 [![Ilya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ginger-Raccoon&show_icons=true)](https://github.com/Ginger-Raccoon)
 
 
-### Connect with me:
+### Всегда рад общению:
 
 [<img align="left" alt="gingerraccoon" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
 
