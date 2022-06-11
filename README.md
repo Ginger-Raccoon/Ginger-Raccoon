@@ -2,7 +2,7 @@
 
 ## Я junior Frontend(React) dev.
 - 🔭 Закончил 2 курса [Яндекс.Практикум](https://praktikum.yandex.ru/web) "Web" и "React - разработчик!"
-- 💻 Хочу поменять фриланс на офис с приятными коллегами и перспективой роста [тык!](https://hh.ru/resume/d8d0bf31ff0838d9490039ed1f706c4c62386f)
+- 💻 Frontend dev. in [O.dev](https://the-o.co/)
 - 🎯 Иногда что-то решаю на [Codewars](https://www.codewars.com/users/Ginger__Racoon) и [LeetCode](https://leetcode.com/Ginger-Raccoon/)
 - 🐶 Контрибьючу в [doka.guide](https://doka.guide)
 
