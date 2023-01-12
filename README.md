@@ -1,6 +1,6 @@
 # 🖐🏻 Трям! Меня зовут Илья - можно Енот 🦝
 
-## Я junior Frontend(React) dev.
+## Я Frontend(React) dev.
 - 🔭 Закончил 2 курса [Яндекс.Практикум](https://praktikum.yandex.ru/web) "Web" и "React - разработчик!"
 - 💻 Frontend dev. in [O.dev](https://the-o.co/)
 - 🎯 Иногда что-то решаю на [Codewars](https://www.codewars.com/users/Ginger__Racoon) и [LeetCode](https://leetcode.com/Ginger-Raccoon/)
