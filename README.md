@@ -1,7 +1,6 @@
 # 🖐🏻 Трям! Меня зовут Илья - можно Енот 🦝
 
 ## Я Frontend(React) dev.
-- 💻 Frontend dev. in [O.dev](https://the-o.co/)
 - 🐶 Контрибьючу в [doka.guide](https://doka.guide)
 - ☕ Maintainer в [try brew](https://trybrew.app/)
 
